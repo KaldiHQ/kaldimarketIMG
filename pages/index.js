@@ -17,7 +17,12 @@ export default function Home() {
           Future home of KaldiMarket - a specialty coffee trading platform creating powerful solutions for smallholder farmers
         </p>
       </main>
-
+    
+      <body>
+        <p><a class="btn btn-primary" style="background-color: #55acee;" href="https://twitter.com/KaldiMarket/" role="button"><i class="fab fa-twitter me-2"></i>Twitter</a>
+        </p>
+      </body>
+    
       <Footer />
     </div>
   )
