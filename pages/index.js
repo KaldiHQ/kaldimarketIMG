@@ -6,15 +6,21 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>KaldiMarket</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+       <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
+        <Header title="Coming Soon" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Future home of KaldiMarket - a specialty coffee trading platform creating powerful solutions for smallholder farmers
         </p>
+        <div className="flex-container">
+         <div><a href="https://www.instagram.com/kaldimarket/" class="fa fa-instagram"></a></div>
+         <div><a href="https://twitter.com/KaldiMarket/" class="fa fa-twitter"></a></div>
+        </div>
       </main>
 
       <Footer />
