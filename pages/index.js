@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-       <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
+        <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
         <Header title="Coming Soon" />
         <p className="description">
           Future home of KaldiMarket - a specialty coffee trading platform creating powerful solutions for smallholder farmers
