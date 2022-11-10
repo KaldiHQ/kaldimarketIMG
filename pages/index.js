@@ -20,6 +20,16 @@ export default function Home() {
             farmers out of poverty, and allow them to financially participate in a completely new
             economic model in the global coffee sector.
          </p>
+         <p className="main">
+            KaldiMarket is a new global green specialty coffee wholesale marketplace based in Chicago,
+            USA. It is engaged in the alleviation and elimination of global smallholder coffee farmer
+            poverty whilst creating substantial stakeholder value across its ecosystem. In addition to
+            allowing smallholder farmers to command ‘speciality pricing’ in USD on the auction platform
+            KaldiMarket.com, every coffee lot listed or sold on KaldiMarket generates its own native
+            cryptocurrency, Kaldi Tokens, via the regulated and authorized Kaldi Company Ltd.
+            Farmers can ‘cash out’ their Kaldi Tokens whenever they want, providing them with an extra
+            revenue stream in addition to their coffee sales.
+          </p>
         </div>
       </main>
     
