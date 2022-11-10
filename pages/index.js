@@ -20,6 +20,7 @@ export default function Home() {
             farmers out of poverty, and allow them to financially participate in a completely new
             economic model in the global coffee sector</em>.
          </p>
+        <br>
          <p className="main">
             KaldiMarket is a new global green specialty coffee wholesale marketplace based in Chicago,
             USA. It is engaged in the alleviation and elimination of global smallholder coffee farmer
@@ -35,6 +36,7 @@ export default function Home() {
             traceability</strong> and a <strong>unique suite of benefits and incentives</strong> to farmers and their customers,
             revolutionizing a current annual $50+ billion green specialty coffee market.
           </p>
+          <br>
           <p className="center">
             <em>KaldiMarket has been created to allow smallholder farmers to earn more for their families and communities</em>.
           </p>
