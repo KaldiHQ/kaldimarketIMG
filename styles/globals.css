@@ -14,6 +14,7 @@ body {
 
 main {
   background: #1e2731;
+  width: 100%;
   color: #ffffff;
   padding: 5rem 0;
   flex: 1;
