@@ -11,7 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
+        <div className="flex-container">
+          <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
+        </div>
         <div class="col-md-8">
           <p className="description">
             KaldiMarket™ is the world’s first direct-to-market green specialty coffee volume trading
