@@ -13,7 +13,12 @@ export default function Home() {
       <main>
           <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" class="flex-containter" /></p>
         <div class="col-md-8">
-          <p className="description" style="text-align:center"> 
+          <style>
+          .center {
+            text-align: center
+          }
+          </style>
+          <p className="center"> 
             <em>KaldiMarket™ is the world’s first direct-to-market green specialty coffee volume trading
             platform. The Kaldi mission is to revolutionize the green specialty coffee market via a value-
             creating coffee ecosystem; utilizing blockchain technology to help lift millions of smallholder
@@ -29,6 +34,14 @@ export default function Home() {
             cryptocurrency, <strong>Kaldi Tokens</strong>, via the regulated and authorized Kaldi Company Ltd.
             Farmers can ‘cash out’ their Kaldi Tokens whenever they want, providing them with an extra
             revenue stream <strong>in addition to their coffee sales</strong>.
+          </p>
+          <p className="main">
+            Powered by novel proprietary blockchain technology, KaldiMarket offers true <strong>seed-to-sale
+            traceability</strong> and a <strong>unique suite of benefits and incentives</strong> to farmers and their customers,
+            revolutionizing a current annual $50+ billion green specialty coffee market.
+          </p>
+          <p className="center">
+            <em>KaldiMarket has been created to allow smallholder farmers to earn more for their families and communities</em>.
           </p>
         </div>
       </main>
