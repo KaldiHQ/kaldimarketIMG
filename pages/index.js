@@ -19,8 +19,7 @@ export default function Home() {
             creating coffee ecosystem; utilizing blockchain technology to help lift millions of smallholder
             farmers out of poverty, and allow them to financially participate in a completely new
             economic model in the global coffee sector</em>.
-         </p><br>
-         <br>
+         </p>
          <p className="main">
             KaldiMarket is a new global green specialty coffee wholesale marketplace based in Chicago,
             USA. It is engaged in the alleviation and elimination of global smallholder coffee farmer
