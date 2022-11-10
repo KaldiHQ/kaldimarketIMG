@@ -13,7 +13,7 @@ export default function Home() {
       <main>
           <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" class="flex-containter" /></p>
         <div class="col-md-8">
-          <p className="description">
+          <p className="description" align:"center"> 
             <em>KaldiMarket™ is the world’s first direct-to-market green specialty coffee volume trading
             platform. The Kaldi mission is to revolutionize the green specialty coffee market via a value-
             creating coffee ecosystem; utilizing blockchain technology to help lift millions of smallholder
