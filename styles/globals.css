@@ -69,3 +69,7 @@ code {
   text-decoration: none;
   border-radius: 50%;
 }
+
+.center {
+   text-align: center;
+}
