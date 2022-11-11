@@ -42,7 +42,6 @@ code {
 
 .flex-container {
  display: flex;
- flex-wrap: wrap;
  width: 100%;
  padding-right: 15px;
  padding-left: 15px;
