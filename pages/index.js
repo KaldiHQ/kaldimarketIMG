@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-         <div class="col-md-9">
+         <div class="flex-container">
           <p><img src="/logo.png" alt="KaldiMarket Logo" width="500" /></p>
          </div>
          <div class="col-md-8">
