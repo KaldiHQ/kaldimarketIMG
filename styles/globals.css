@@ -40,7 +40,9 @@ code {
 }
 
 .flex-container {
+ flex: 1;
  display: flex;
+ flexwrap: wrap;
  width: 100%;
  padding-right: 15px;
  padding-left: 15px;
