@@ -22,6 +22,7 @@ main {
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
 }
 
 code {
@@ -48,6 +49,7 @@ code {
  padding-left: 15px;
  margin-right: auto;
  margin-left: auto;
+ justify-content: center;
 }
 
 .col-md-8 {
